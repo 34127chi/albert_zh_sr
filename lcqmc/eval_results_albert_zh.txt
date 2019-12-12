@@ -1,0 +1,20 @@
+***** Eval results ./albert_lcqmc_tiny_google_checkpoints/model.ckpt-145614 *****
+eval_pearson_cosine = 0.7141993
+global_step = 145614
+loss = 0.13753621
+***** Eval results ./albert_lcqmc_tiny_google_checkpoints/model.ckpt-146614 *****
+eval_pearson_cosine = 0.71438575
+global_step = 146614
+loss = 0.13727184
+***** Eval results ./albert_lcqmc_tiny_google_checkpoints/model.ckpt-147614 *****
+eval_pearson_cosine = 0.7147199
+global_step = 147614
+loss = 0.13701472
+***** Eval results ./albert_lcqmc_tiny_google_checkpoints/model.ckpt-148614 *****
+eval_pearson_cosine = 0.71489817
+global_step = 148614
+loss = 0.13695432
+***** Eval results ./albert_lcqmc_tiny_google_checkpoints/model.ckpt-149228 *****
+eval_pearson_cosine = 0.7148713
+global_step = 149228
+loss = 0.13700862
